@@ -81,11 +81,9 @@ def generate_summary(text, num_sentences=3):
 if __name__ == "__main__":
 
     input_text = """
-    Natural language processing (NLP) is a subfield of artificial intelligence.
-    It involves the development of algorithms and models that enable NLP.
-    NLP is used in various applications, including chatbots, language understanding,
-    and language generation.
-    This program demonstrates a simple text summarization using NLP.
+
+In real-world applications, SRL improves question-answering systems by helping find the right answer based on roles like “who” or “what.” It also enhances chatbots, allowing them to understand user intent accurately, such as identifying actions and objects in commands like “Book a flight to Delhi.”
+
     """
 
     summary = generate_summary(input_text)
