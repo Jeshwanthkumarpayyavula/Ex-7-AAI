@@ -95,7 +95,8 @@ In real-world applications, SRL improves question-answering systems by helping f
     print(summary)
 ```
 ## Output:
-<img width="1420" height="448" alt="image" src="https://github.com/user-attachments/assets/1f0cb566-3e0e-4d07-963e-0dcd16c88371" />
+<img width="1164" height="583" alt="image" src="https://github.com/user-attachments/assets/79381b46-0485-4ceb-9577-9419e2a23829" />
+
 
 
 
